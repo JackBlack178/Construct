@@ -6,9 +6,10 @@
 
 Source: https://www.figma.com/design/M1kswzBrkyknXtXS6Pp4Wd/konstruct-template?node-id=0-1&t=9VtOohpiNZOUjxuw-0
 
-![image](https://github.com/user-attachments/assets/abd4067f-0a4c-4c0d-b7c0-024422ade9e6)
-![image](https://github.com/user-attachments/assets/34ad7cf0-3afe-48a2-abe7-dca4ed9904a0)
-![image](https://github.com/user-attachments/assets/6560e53a-5a0b-4f99-9e1c-69eb835c1ff3)
+![image](https://github.com/user-attachments/assets/96d4b018-7445-4603-8783-03a80fb436e4)
+![image](https://github.com/user-attachments/assets/59c04865-55ae-4eae-86b0-f3d73b2bca39)
+![Uploading image.png…]()
+
 
 
 
